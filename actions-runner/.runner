@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 22,
+  "agentName": "AZRIEL",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus22.actions.githubusercontent.com/QeV2XInYTql6gUUYzE5GZ5BVzgSiQhTcNQ3fcjvB3IfHU4X4Bs/",
+  "gitHubUrl": "https://github.com/azrieldewangga/proyek-cicd",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
